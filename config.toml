@@ -14,8 +14,8 @@ theme = "hugo-minimalist-theme"
     site_description = "The awesome blog of Martin Kean."
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/dog-fish.jpg"
+    header_background = "img/rail.jpg"
     header_title = "Martin's awesome blog site"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
